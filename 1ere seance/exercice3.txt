@@ -1,7 +1,0 @@
-moyenne=float(input("valeur moyenne:"))
-if moyenne >=10:
-    print("admit")
-else:
-    print("non admit")
-    
-       
